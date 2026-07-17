@@ -1,0 +1,6 @@
+# .gitignore
+users.db
+gviz_users.db
+.env
+__pycache__/
+.streamlit/

@@ -1,0 +1,8 @@
+streamlit
+langgraph
+langchain-google-genai
+pydantic
+yfinance
+plotly
+google-genai
+google-ai-generativelanguage
